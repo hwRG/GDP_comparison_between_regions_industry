@@ -1,4 +1,4 @@
-# GDP_comparison_between_regions_industry
+# GDP comparison between regions industry Project
 
 ## 주제 선정의 근거
 1. 어렸을 때부터 돈에 관심이 많았습니다. 그러다보니 자연스럽게 소득과 생산에 대해 종종 알아보곤 했습니다. 특별히 궁금하진 않았는데 얼마 전에 지역별 1인당 GDP(국내총생산 /이하 GRDP지역총생산량/)에 대한 게시글을 봤는데 적잖은 충격을 받았습니다. 전체 GDP 뿐만 아니라 1인당 GDP 또한 서울이 압도적으로 높을 것이라 생각한데 비해 뜬금없이 울산, 충남 등이 1,2등을 차지하고 서울의 순위는 5등으로 상당히 낮았습니다.
